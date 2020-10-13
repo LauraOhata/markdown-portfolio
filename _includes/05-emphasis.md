@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+I'm an award-winning **writer** and published photographer who likes to learn things like:  
+*HTML, CSS, PHP, Python, GitHub etc.* 
+:blush:

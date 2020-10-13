@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Laura Ohata  
+### I'm a multimedia content strategist with a penchant for writing clear and useful prose across channels.

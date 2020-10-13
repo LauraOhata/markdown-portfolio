@@ -13,4 +13,6 @@
 - Web content
 - Grit
 - Teaching
+- Iteration
+- Optimization
 - Creating fun content experiences 

@@ -1,1 +1,16 @@
-Replace this with a list of your favorite things.
+### These are a few of my favorite things:
+- Collaboration
+- Problem-solving
+- Research
+- Strategy
+- Learning new technology
+- Troubleshooting 
+- Writing
+- Editing
+- Style guides  
+- Photography
+- Videography
+- Web content
+- Grit
+- Teaching
+- Creating fun content experiences 
